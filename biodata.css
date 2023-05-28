@@ -1,0 +1,22 @@
+body{ 
+    margin: 0 auto; 
+    font-family: sans-serif; 
+    background-color : 
+    aliceblue; }
+    form{ 
+    width: 100%;
+    }
+    legend{  
+    text-align: center; }
+    .back{
+    margin-top: 5px; 
+    background-color: #2880b9; 
+    color: 
+    white; 
+    text-decoration: none; 
+    width: 70px; 
+    height: 40px; 
+    border: transparent; 
+    border-radius: 5px; }
+
+      
